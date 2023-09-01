@@ -5,4 +5,4 @@ Essentials of real-time 3D: Published prototype with 3D objects that have been m
 
 [`Link for game`](https://play.unity.com/mg/other/essentials-of-real-time-3d-11)  
     
-![Thumbnail 1](https://github.com/vasvi1203/Essentials-of-real-time-3D/blob/main/Thumbnail1.jpg)  
+![Thumbnail 1](https://github.com/vasvi1203/Essentials-of-real-time-3D-build/blob/main/Thumbnail1.jpg)  
